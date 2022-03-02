@@ -9,7 +9,7 @@ Set your house ambience with respect to the ambient temperature using a temperat
   + 3 Male-to-male Jumper Cables
   + 3 Male-to-female Jumper Cables
   + WS281B LED Strip
-  + DHT11 or greator temperature sensor
+  + DHT11 or newer temperature sensor
   + Breadboard (Optional)
 
 * Software
