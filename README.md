@@ -3,7 +3,7 @@ Set your house ambience with respect to the ambient temperature using a temperat
 
 ## Pre-requisites
 
-* Hardware
+* **Hardware**
   + Arduino Uno or any other equivalent board
   + 5v Power supply
   + 3 Male-to-male Jumper Cables
@@ -12,7 +12,7 @@ Set your house ambience with respect to the ambient temperature using a temperat
   + DHT11 or newer temperature sensor
   + Breadboard (Optional)
 
-* Software
+* **Software**
   + [Arduino IDE](https://www.arduino.cc/en/software "Download Arduino IDE")
   + Library : FastLED *(not by AdaFruit)* & Unified Sensor by AdaFruit *[howTo](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)*
 
