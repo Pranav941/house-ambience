@@ -22,7 +22,7 @@ Set your house ambience with respect to the ambient temperature using a temperat
   Step 2 : Install FastLED & Unified Sensors by AdaFruit\
   Step 3 : Enter the number of LEDs on your strip on the 4th line (*Change data pins according to your prefrence if needed*)\
   Step 4 : Select the right Com port via Tools\
-  Step 5 : Make the right connections *(Check figures below)*\
+  Step 5 : Make the right connections *(Check figure below)*\
   Step 5 : Hit Upload
   
   #### Note : Disconnect the power supply jumper cable to LED & Sensor to avoid any unwanted issues
