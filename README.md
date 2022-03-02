@@ -27,4 +27,4 @@ Set your house ambience using a temperature sensor and WS281B Addressable LEDs
   
   #### Note : Disconnect the power supply jumper cable to LED & Sensor to avoid any unwanted issues
 
-  ![alt text](https://github.com/Pranav941/house-ambience/blob/main/resourse/Untitled.png?raw=true)
+  ![alt text](https://github.com/Pranav941/house-ambience/blob/main/resource/Untitled.png?raw=true)
