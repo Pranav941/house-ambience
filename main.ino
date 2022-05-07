@@ -11,7 +11,7 @@ CRGB leds[NUM_LEDS];
 
 // Source MSN Weather
 // Cool = 17 (Candle) Candle=0xFF9329 /* 1900 Kelvin, 255, 147, 41 */, hsv(30,84,100)
-// 24 = Normal (20 to 22 is normal room temperature) (Tungsten100W) Tungsten100W=0xFFD6AA /* 2850 Kelvin, 255, 214, 170 */, hsv(31,33,100)
+// 24 = Normal (20 to 24 is normal room temperature) (Tungsten100W) Tungsten100W=0xFFD6AA /* 2850 Kelvin, 255, 214, 170 */, hsv(31,33,100)
 // Hot = 32 () (CarbonArc) CarbonArc=0xFFFAF4 /* 5200 Kelvin, 255, 250, 244 */,
 
 uint8_t hue = 0;
