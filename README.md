@@ -14,7 +14,7 @@ Set your house ambience in accordance to the ambient temperature around you usin
 
 * **Software**
   + [Arduino IDE](https://www.arduino.cc/en/software "Download Arduino IDE")
-  + Library : FastLED *(not by AdaFruit)* & Unified Sensor by AdaFruit *[howTo](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)*
+  + Library : FastLED *(not by AdaFruit)* & Unified Sensor by AdaFruit  (*[howTo](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)*)
 
 ## Usage
 
@@ -25,6 +25,6 @@ Set your house ambience in accordance to the ambient temperature around you usin
   Step 5 : Make the right connections *(Check figure below)*\
   Step 5 : Hit Upload
   
-  #### Note : Disconnect the power supply jumper cable to LED & Sensor to avoid any unwanted issues
+  #### Note : After use disconnect the power supply jumper cable to LED Strip & Sensor to avoid any unwanted issues
 
   ![Connections](https://github.com/Pranav941/house-ambience/blob/main/resource/Untitled.png?raw=true)
