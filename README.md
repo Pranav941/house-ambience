@@ -1,5 +1,5 @@
 # House Ambience
-Set your house ambience with respect to the ambient temperature using a temperature sensor and WS281B Addressable LEDs in 5 steps
+Set your house ambience in accordance to the ambient temperature around you using simple devices in 5 steps !
 
 ## Pre-requisites
 
